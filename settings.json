@@ -1,0 +1,68 @@
+{
+  /**
+   * Better Defaults
+   **/
+  "editor.copyWithSyntaxHighlighting": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.editor.enablePreview": false,
+  "window.newWindowDimensions": "inherit",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "window.nativeFullScreen": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+
+      /**
+    * Hide Everything
+    */
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showTabs": false,
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "off",
+    "editor.accessibilitySupport": "off",
+
+        /**
+    * Silence The Noise
+    */
+    "breadcrumbs.enabled": false,
+    "scm.diffDecorations": "none",
+    "editor.hover.enabled": false,
+    "editor.matchBrackets": "never",
+    "workbench.tips.enabled": false,
+    "editor.colorDecorators": false,
+    "git.decorations.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.lightbulb.enabled": false,
+    "editor.selectionHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": false,
+    "problems.decorations.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+        /**
+    * Typography
+    **/
+    "workbench.colorTheme": "Palenight Italic",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 0,
+    "editor.suggestFontSize": 15,
+    "editor.suggestLineHeight": 28,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1.5,
+}
