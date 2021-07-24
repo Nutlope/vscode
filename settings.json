@@ -56,8 +56,7 @@
         /**
     * Typography
     **/
-    "workbench.colorTheme": "Palenight Italic",
-    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Gruvbox Material Dark",
     "editor.fontFamily": "Fira Code",
     "editor.fontSize": 12,
     "editor.lineHeight": 0,
@@ -65,4 +64,7 @@
     "editor.suggestLineHeight": 28,
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.lineHeight": 1.5,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 1,
 }
